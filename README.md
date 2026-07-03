@@ -1,0 +1,1 @@
+See /home/workdir/artifacts/mindala/README.md for full content (tool will read? No, I need to paste content)
